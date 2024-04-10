@@ -19,6 +19,6 @@ Hello there! 👋 I'm **Phat**, currently a third-year Software Engineering stud
 
 ### 🌐 Connect with Me
 
-I'm always on the lookout for new challenges and opportunities to learn and grow. Whether you're interested in collaborating on a project, discussing new technologies, or simply want to chat, feel free to reach out to me.
+I'm always looking for new challenges and opportunities to learn and develop. If you're interested in collaborating for a project, discussing new technologies, or simply wantting to chat, feel free to contact me.
 
 Thank you for visiting my github. Let's build something amazing together!
